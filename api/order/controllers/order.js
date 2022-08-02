@@ -82,7 +82,7 @@ module.exports = {
         from: 'no-reply@guigames.com'
       },
       {
-        templateId: 2
+        templateId: 1
       },
       {
         user: userInfo,
